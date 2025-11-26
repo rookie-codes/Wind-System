@@ -4,15 +4,15 @@ registry = "test"
 
 [[package]]
 name = "rookie-codes/windlines"
-version = "0.1.1"
+version = "0.1.4"
 dependencies = []
 
 [[package]]
 name = "rookie-codes/windshake"
-version = "0.1.1"
+version = "0.1.5"
 dependencies = []
 
 [[package]]
 name = "rookiecodes/wind-system"
 version = "0.1.0"
-dependencies = [["WindLines", "rookie-codes/windlines@0.1.1"], ["WindShake", "rookie-codes/windshake@0.1.1"]]
+dependencies = [["WindLines", "rookie-codes/windlines@0.1.4"], ["WindShake", "rookie-codes/windshake@0.1.5"]]
