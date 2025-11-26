@@ -1,1 +1,1 @@
-return require(script.Parent._Index["rookie-codes_windshake@0.1.5"]["windshake"])
+return require(script.Parent._Index["rookie-codes_windshake@0.1.7"]["windshake"])
