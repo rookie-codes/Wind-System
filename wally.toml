@@ -5,5 +5,5 @@ registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
 [dependencies]
-WindShake = "rookie-codes/windshake@0.1.0"
-WindLines = "rookie-codes/windlines@0.1.0"
+WindShake = "rookie-codes/windshake@0.1.1"
+WindLines = "rookie-codes/windlines@0.1.1"
